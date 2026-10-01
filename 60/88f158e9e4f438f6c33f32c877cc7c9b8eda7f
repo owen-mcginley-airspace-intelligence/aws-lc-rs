@@ -1,0 +1,36 @@
+.github/workflows/system-lib-tests-fips.yml
+  6d5fab82b15703b6 254,257
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.5",
+  "base_commit_sha": "6088f158e9e4f438f6c33f32c877cc7c9b8eda7f",
+  "prompts": {
+    "6d5fab82b15703b6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3df92fc6-468a-4550-941f-d9790a066109",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Owen McGinley",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 0,
+      "messages_url": "https://uni-git-ai-cas.sre.aws.ai-internal.com//cas/41647aacebd2ac022b7ba56c57e795311e34ff1669d8111097589a40eaba1b98",
+      "context_window_samples": [
+        {
+          "used_tokens": 127627,
+          "timestamp": "2026-10-01T16:16:56.002Z"
+        }
+      ],
+      "token_usage": {
+        "input_tokens": 100,
+        "output_tokens": 33873,
+        "cache_read_tokens": 4200660,
+        "cache_write_tokens": 198485
+      }
+    }
+  }
+}
